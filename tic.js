@@ -63,6 +63,7 @@ const checkwinner = ()=>{
             if(pos1 === pos2 && pos2 === pos3){
                 showwinner(pos1);
             }
+            
         }
     }
 }
